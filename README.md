@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
 <h3 align="center">A Passionate Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayeshpatil9869&label=Profile%20views&color=0e75b6&style=flat" alt="jayeshpatil9869" /> </p>
-
 <p align="left"> <a href="https://twitter.com/jayeshpatil1553" target="blank"><img src="https://img.shields.io/twitter/follow/jayeshpatil1553?logo=twitter&style=for-the-badge" alt="jayeshpatil1553" /></a> </p>
 
 <img src="https://c.tenor.com/NOYF3f82b_gAAAAC/tenor.gif" alt="jayeshpatil1553" align="right" a/>
