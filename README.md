@@ -75,5 +75,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cdf9823b-2f02-488b-8dd5-ac8223373ebf" alt="GitHub User Contribution" />
+
+![github-user-contribution](https://github.com/user-attachments/assets/8326e73f-7f1c-4e4b-95d2-dd2dd1eadde2)
 </div>
+
