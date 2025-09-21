@@ -29,10 +29,8 @@
 <img align="right" height="250" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Working on code" />
 
 - 🔭 Currently building **modern, responsive full-stack applications**.  
-- 🎓 Pursuing **MCA (Master of Computer Applications)** at Dr. B.V. Hiray College.  
-- 📚 Learning **MERN Stack** & **.NET Core Full Stack** at **Naresh IT**.  
-- ⚡ Passionate about **creative UI/UX**, **GSAP animations**, and experimenting with new ideas.  
-- 🎥 Love sharing knowledge & inspiration through **YouTube**.  
+- 🎓 Pursuing **MCA (Master of Computer Applications)** at Dr. B.V. Hiray College.
+- ⚡ Passionate about **creative UI/UX**, **GSAP animations**, and experimenting with new ideas.   
 
 ---
 
@@ -80,6 +78,14 @@
 
 ---
 
+### 🎓 Education
+
+- **MCA (Master of Computer Applications)** — Dr. B.V. Hiray College (2025 - Present)  
+- **Full Stack Development Training** — Naresh IT (MERN + .NET Core) (2024 - 2025)  
+- **BCA (Bachelor of Computer Applications)** — M.S.G College (2021 - 2024)  
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -87,14 +93,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jayeshpatil9869&layout=compact&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jayeshpatil9869&theme=github-compact&area=true&hide_border=true" height="140" />
 </div>
-
----
-
-### 🎓 Education
-
-- **MCA (Master of Computer Applications)** — Dr. B.V. Hiray College (2025 - 2027)  
-- **Full Stack Development Training** — Naresh IT (MERN + .NET Core) (2024 - 2025)  
-- **B.Sc. in Computer Science** — [Your College Name Here] (2021 - 2024)  
 
 ---
 
