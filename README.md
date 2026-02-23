@@ -5,7 +5,7 @@ Full Stack Developer (MERN) • Performance-Focused Web Applications • Clean A
 
 <p align="center">
   <a href="https://jayeshbpatil.com" target="_blank"><b>🌐 Portfolio</b></a> •
-  <a href="https://www.linkedin.com/in/jayesh-patil/" target="_blank"><b>LinkedIn</b></a> •
+  <a href="https://www.linkedin.com/in/jayesh-patil01/" target="_blank"><b>LinkedIn</b></a> •
   <a href="https://dev.to/jayesh_patil" target="_blank"><b>DEV.to</b></a> •
   <a href="https://github.com/Jayeshpatil9869" target="_blank"><b>GitHub</b></a>
 </p>
