@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
 <h3 align="center">
-Full Stack Developer (MERN) • Performance-Focused Web Applications • Clean Architecture & Animations
+Full Stack Developer (MERN) • Fintech SaaS • Performance-Focused Web Applications • Clean Architecture & Animations
 </h3>
 
 <p align="center">
   <a href="https://jayeshbpatil.com" target="_blank"><b>🌐 Portfolio</b></a> •
-  <a href="https://www.linkedin.com/in/jayesh-patil01/" target="_blank"><b>LinkedIn</b></a> •
+  <a href="https://www.linkedin.com/in/jayeshpatilfs" target="_blank"><b>LinkedIn</b></a> •
   <a href="https://dev.to/jayesh_patil" target="_blank"><b>DEV.to</b></a> •
   <a href="https://github.com/Jayeshpatil9869" target="_blank"><b>GitHub</b></a>
 </p>
@@ -16,9 +16,9 @@ Full Stack Developer (MERN) • Performance-Focused Web Applications • Clean A
 
 If you’re a recruiter or developer, start with these:
 
-- 🚀 **Portfolio Website** – React + GSAP, performance-optimized SPA  
-- 🧩 **MERN Full Stack App** – Auth, APIs, MongoDB, dashboards  
-- 🎨 **Frontend Animation Project** – GSAP-driven UI & UX experiments  
+- 🚀 **Fintech Dashboard (OneCapital)** – Real-time data system replacing Excel workflows (saved 15+ hrs/week)  
+- 🧩 **MERN Full Stack Apps** – Auth, APIs, MongoDB, dashboards used by real clients  
+- 🎨 **Frontend Animation System** – GSAP-driven UI & UX experiments  
 
 (Each pinned repo below contains a live demo + screenshots.)
 
@@ -31,12 +31,17 @@ src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6c
 alt="Developer working on code" />
 
 I’m a **Full Stack Developer specializing in the MERN stack**, focused on building  
-**scalable, production-ready web applications**.
+**scalable, production-ready web applications that solve real business problems**.
 
 I care deeply about:
-- ⚡ Performance & Core Web Vitals  
+- ⚡ Performance & Core Web Vitals (improved load time by ~25%)  
 - 🧱 Clean, maintainable architecture  
 - 🎯 Real-world UX, not just UI  
+
+💼 Real impact:
+- ⏱ Eliminated **15+ hrs/week manual work** via dashboard automation  
+- 🚀 Improved **API performance by ~20%** using MongoDB optimization  
+- 📈 Increased **client efficiency by ~30%**  
 
 I treat personal projects like **real production systems**, not demos.
 
@@ -45,35 +50,41 @@ I treat personal projects like **real production systems**, not demos.
 ## 🛠 Tech Stack
 
 **Frontend**
-- React, Next.js, JavaScript, TypeScript
-- Tailwind CSS, GSAP, Framer Motion
+- React, Next.js, JavaScript, TypeScript  
+- Tailwind CSS, GSAP, Framer Motion  
 
 **Backend**
-- Node.js, Express.js
-- MongoDB, REST APIs, Supabase
+- Node.js, Express.js  
+- MongoDB, REST APIs, Supabase  
 
 **Other**
-- Git & GitHub
-- Cloudflare
-- UI/UX & performance optimization
+- Git & GitHub  
+- Cloudflare Workers  
+- UI/UX & performance optimization  
 
 ---
 
 ## 💼 Experience
 
-### Full Stack Developer Intern — DigiMirai (2025 – Present)
-- Building MERN stack applications aligned with real business requirements  
-- Implemented dashboards, animations, and backend integrations  
-- Worked with React, Next.js, Tailwind CSS, and APIs  
+### Full Stack Developer — OneCapital (Fintech Startup) (2025 – Present)
+- Promoted from intern to full-time based on performance  
+- Built real-time dashboards replacing Excel + Power BI workflows  
+- Integrated multiple financial data sources into one system  
+- Delivered production-ready scalable solutions  
 
-### Freelance Web Developer — Local Clients (2024 – 2025)
-- Developed business websites and landing pages  
-- Focused on performance, clean UI, and mobile responsiveness  
-- Helped clients improve branding and online presence  
+### Freelance Web Developer — Divines Code (2025 – 2026)
+- Delivered **5+ production MERN applications**  
+- Built e-commerce platforms, SaaS tools, and dashboards  
+- Worked directly with clients from requirement → deployment  
+
+### Full Stack Developer Intern — DigiMirai (2025)
+- Built and deployed **3+ MERN applications**  
+- Developed reusable UI components and backend APIs  
+- Participated in code reviews and deployment pipelines  
 
 ### Open Source & Personal Projects
-- Built and maintained multiple projects using React, Node.js, and MongoDB  
-- Projects include performance-focused UIs, dashboards, and animation systems  
+- Built multiple real-world projects using React, Node.js, MongoDB  
+- Focus on dashboards, performance systems, and animation UIs  
 
 ---
 
@@ -99,5 +110,5 @@ I treat personal projects like **real production systems**, not demos.
 ---
 
 <p align="center">
-  <i>Building real-world web applications with performance and clarity in mind.</i>
+  <i>Building real-world web applications that replace manual work with scalable systems.</i>
 </p>
