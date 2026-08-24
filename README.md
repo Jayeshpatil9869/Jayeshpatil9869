@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
 
 <h3 align="center">
-Full Stack Developer • React.js • Next.js • Node.js • TypeScript
+Full Stack Developer • MERN Stack • Fintech SaaS • Production-Ready Web Applications
 </h3>
 
 <p align="center">
-  Building production-ready web applications, SaaS platforms, dashboards, and e-commerce systems.
+  Building scalable web applications that solve real business problems with clean architecture and performance optimization.
 </p>
 
 <p align="center">
@@ -17,34 +17,35 @@ Full Stack Developer • React.js • Next.js • Node.js • TypeScript
 
 ---
 
-## 👨‍💻 About Me
+## ⭐ Start Here
 
-I'm a **Full Stack Developer** focused on building production-ready web applications that solve real business problems.
+If you're a recruiter or developer, check these out:
 
-I work across the complete development lifecycle — from understanding requirements and designing solutions to implementation, testing, deployment, and optimization.
-
-My primary stack includes:
-
-- ⚛️ React.js & Next.js
-- 🟦 TypeScript & JavaScript
-- 🟢 Node.js, Express.js & Fastify
-- 🗄️ PostgreSQL, MongoDB & Supabase
-- 🎨 Tailwind CSS, GSAP & modern UI systems
-- 🐳 Docker, GitHub Actions & cloud deployment
-
-I enjoy turning complex requirements into clean, maintainable, and scalable applications.
+- 🚀 **Fintech Dashboard (OneCapital)** – Real-time data system replacing Excel + Power BI workflows. Eliminated 15+ hrs/week of manual work.
+- 🧩 **5+ MERN Full Stack Applications** – Production apps with auth, REST APIs, MongoDB, dashboards. Built for real clients.
+- 🎨 **Frontend Performance & Animations** – GSAP-driven UX, optimized React components, 25% reduction in page load time.
 
 ---
 
-## 🚀 What I Build
+## 👨‍💻 About Me 
 
-- 💼 SaaS platforms and business applications
-- 📊 Data-driven dashboards and reporting systems
-- 🛒 E-commerce platforms
-- 🔐 Authentication and role-based systems
-- 🔌 REST APIs and backend services
-- 📥 Data ingestion and processing workflows
-- 🎨 Modern responsive interfaces and interactive experiences
+<img align="right" height="250" src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="Developer working on code" />
+I'm a **Full Stack Developer specializing in the MERN stack**, focused on building **scalable, production-ready web applications** that solve real business problems.
+
+I care deeply about:
+
+- ⚡ **Performance & Core Web Vitals** – Improved page load time by ~25% through React optimization
+- 🧱 **Clean, maintainable architecture** – Monorepos, TypeScript, scalable systems
+- 🎯 **Real-world impact** – Automation systems that replace manual workflows
+
+**💼 Real impact I've delivered:**
+
+- ⏱ Eliminated **15+ hrs/week of manual work** by building an automated financial dashboard
+- 📊 Improved **API performance by ~20%** using MongoDB query optimization
+- 🚀 Increased **client efficiency by ~30%** through workflow automation
+- 🏆 Promoted from intern to full-time Software Developer at OneCapital in 2 months
+
+I treat every project like a **production system**, not a demo. I work across the entire development lifecycle — from requirements and design to implementation, testing, deployment, and optimization.
 
 ---
 
@@ -56,11 +57,20 @@ I enjoy turning complex requirements into clean, maintainable, and scalable appl
   <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" />
 </p>
 
+- React.js, Next.js
+- TypeScript & JavaScript
+- Tailwind CSS, GSAP, Framer Motion
+- Responsive Design & Performance Optimization
+
 ### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastify" />
 </p>
+
+- Node.js, Express.js, Fastify
+- REST APIs, JWT Authentication, RBAC
+- Data processing & ingestion pipelines
 
 ### Databases
 
@@ -68,105 +78,101 @@ I enjoy turning complex requirements into clean, maintainable, and scalable appl
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,supabase,redis" />
 </p>
 
+- MongoDB, PostgreSQL, Supabase
+- Query optimization, schema design
+
 ### DevOps & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,cloudflare" />
 </p>
 
-### Other
-
-- Zustand
-- GSAP
-- Framer Motion
-- Recharts
-- REST APIs
-- JWT Authentication
-- RBAC
-- GitHub Actions
-- Turborepo
-- pnpm
+- Git, GitHub, Docker
+- Vercel, Cloudflare Workers
+- GitHub Actions, CI/CD pipelines
+- Turborepo, pnpm monorepo architecture
 
 ---
 
 ## 💼 Experience
 
-### Software Developer (Full Stack) — OneCapital
+### Software Developer (Full Stack) — OneCapital Investment Private Limited
+
 **Jul 2026 – Present · Pune, India**
 
-- Promoted from Full Stack Developer Intern to Software Developer.
-- Build production web applications for financial reporting and business workflows.
-- Develop React/Next.js interfaces and Node.js/Fastify backend services.
-- Build data ingestion and processing workflows for structured business data.
-- Work with PostgreSQL/Supabase and TypeScript monorepo architecture.
-- Contribute to authentication, authorization, testing, deployment, and performance optimization.
+- Promoted from Full Stack Developer Intern based on performance and production contributions.
+- Built and shipped a centralized wealth management dashboard integrating multiple financial data sources.
+- Designed secure REST APIs using Node.js, Fastify, and Supabase with JWT authentication, role-based access control, and data scoping.
+- Built end-to-end Excel data ingestion pipeline with drag-and-drop upload, XLS/XLSX parsing, validation, and PostgreSQL insertion.
+- Managed TypeScript monorepo (Turborepo + pnpm) with separate frontend, API, and data ingestion services.
+- Eliminated 15+ hours/week of manual financial data workflow through automation.
 
-### Full Stack Developer Intern — OneCapital
+### Full Stack Developer Intern — OneCapital Investment Private Limited
+
 **Feb 2026 – Jun 2026 · Pune, India**
 
-- Shipped dashboard features for data filtering and financial reporting.
-- Built React components, Next.js pages, and Node.js/Fastify backend services.
-- Worked with Supabase PostgreSQL schemas and backend data workflows.
-- Contributed to API design, database architecture, testing, and production deployment.
-- Secured a Pre-Placement Offer and transitioned to a full-time Software Developer role.
+- Shipped dashboard features for data filtering and financial reporting that migrated workflows from Excel to a centralized system.
+- Built React components, Next.js pages, Node.js/Fastify backend services, and Supabase PostgreSQL schemas.
+- Contributed to API design, database architecture, testing, and production deployment of full-stack financial applications.
+- Secured Pre-Placement Offer (PPO) and promoted to full-time Software Developer.
 
-### Full Stack Developer (Freelance) — Divines Code
+### Full Stack Developer (Freelance) — Web Development Agency
+
 **Jun 2025 – Mar 2026 · Nashik, India**
 
-- Delivered **5+ production full-stack applications** for business clients.
-- Built e-commerce platforms, booking systems, dashboards, and agency websites.
-- Developed responsive interfaces using React.js, Next.js, and Tailwind CSS.
-- Built REST APIs using Node.js and Express.js with authentication and role-based access control.
-- Worked with MongoDB, deployment workflows, and CI/CD pipelines.
-- Collaborated with designers and stakeholders from requirements through deployment.
+- Delivered 5+ production full-stack MERN applications for business clients from concept to deployment.
+- Built D2C e-commerce platforms, booking systems, SaaS dashboards, and agency websites.
+- Built responsive, high-performance UIs using React, Next.js, Tailwind CSS, and animation libraries.
+- Developed secure REST APIs with Node.js, Express, and JWT authentication with role-based access control.
+- Optimized MongoDB queries to improve API response time by ~20%.
+- Deployed applications on Vercel and Cloudflare Workers with CI/CD pipelines.
 
-### Full Stack Developer Intern — Digi Mirai
+### Full Stack Developer Intern — Web Development Agency
+
 **Jan 2025 – May 2025 · Malegaon, India**
 
-- Built and maintained **3+ MERN stack applications** for business clients.
-- Developed reusable React.js components integrated with Node.js and Express.js APIs.
-- Worked across MongoDB schema design, API development, frontend implementation, testing, and deployment.
-- Collaborated with stakeholders and development teams to deliver production-ready solutions.
-- Participated in code reviews and Git-based development workflows.
+- Built and maintained 3+ MERN stack applications for business clients across the full development cycle.
+- Developed reusable React component libraries integrated with Node.js/Express backend APIs.
+- Improved API efficiency through database query optimization and backend performance tuning.
+- Participated in code reviews, Git workflows, and production deployment pipelines.
 
 ---
 
 ## 📌 Featured Projects
 
+### 💼 Fintech Dashboard System
+
+**Tech Stack:** Next.js, React, Node.js, Fastify, Supabase PostgreSQL, TypeScript, Turborepo, Zustand, Recharts
+
+Production SaaS platform designed to digitize manual financial workflows with centralized reporting and data aggregation.
+
+- Implemented multi-role access control with user-level data scoping
+- Engineered Excel ingestion pipeline with drag-and-drop upload, XLS/XLSX parsing, schema detection, validation
+- Managed TypeScript monorepo architecture with shared type packages
+
 ### 🛒 E-Commerce Platforms
 
 Full-stack e-commerce applications featuring:
 
-- Product catalogs
-- Shopping cart and checkout flows
-- Payment integration
-- Order management
-- Admin dashboards
+- Product catalogs and shopping cart systems
+- Checkout flows and payment integration
+- Admin dashboards and order management
 - Authentication and authorization
+- Responsive design with performance optimization
 
 ### 📊 SaaS & Dashboard Applications
 
 Business-focused applications featuring:
 
-- Data visualization
-- Filtering and reporting
-- Role-based access
+- Real-time data visualization
+- Advanced filtering and reporting
+- Role-based access control
 - Data processing workflows
-- Responsive interfaces
-
-### 🎨 Modern Frontend Experiences
-
-Frontend projects focused on:
-
-- React.js and Next.js
-- GSAP animations
-- Responsive design
-- Performance optimization
-- Reusable component architecture
+- Responsive, high-performance interfaces
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**  
 Savitribai Phule Pune University  
@@ -174,18 +180,16 @@ Savitribai Phule Pune University
 
 ---
 
+## 🏆 Certifications
+
+- **Deloitte Technology Job Simulation** (December 2025)
+- **Job Ready AI Powered Cohort: Web + DSA + Aptitude** — Sheryians Coding School (January 2025)
+
+---
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Jayeshpatil9869&show_icons=true&theme=react&hide_border=true"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayeshpatil9869&layout=compact&theme=react&hide_border=true"
-    height="150"
-  />
-</p>
+
 
 <p align="center">
   <img
@@ -201,8 +205,9 @@ I'm open to opportunities involving:
 
 - Full Stack Development
 - Frontend Development
-- Software Engineering
 - React / Next.js Development
+- SaaS & Fintech Applications
+- Startup roles
 
 <p align="center">
   <a href="https://jayeshbpatil.com">🌐 Portfolio</a> •
@@ -213,5 +218,5 @@ I'm open to opportunities involving:
 ---
 
 <p align="center">
-  <i>Building real-world web applications with clean architecture and production-focused engineering.</i>
+  <i>Building real-world web applications that replace manual workflows with scalable, automated systems.</i>
 </p>
