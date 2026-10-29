@@ -53,6 +53,12 @@ At OneCapital, I contribute to a wealth management platform, including financial
 - Built e-commerce experiences, booking systems, dashboards, and agency websites.
 - Worked with React, Next.js, Node.js, Express, MongoDB, and deployment platforms.
 
+### Full Stack Developer Intern · Divines Code
+**Jun 2025 – Oct 2025 · India**
+
+- Built and refined full-stack web application features for client projects.
+- Contributed to responsive interfaces, API integration, and debugging across the development cycle.
+
 ### Full Stack Developer Intern · Digi Mirai
 **Jan 2025 – May 2025 · India**
 
