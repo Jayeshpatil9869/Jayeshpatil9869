@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Jayesh Patil</h1>
 
 <h3 align="center">Full Stack Developer | React · Next.js · TypeScript · Node.js</h3>
@@ -18,11 +17,11 @@
 
 ## About Me
 
-I'm a Full Stack Developer interested in building useful, well-structured web products. My work involves developing frontend experiences, backend APIs, database-driven features, and deployment workflows.
+I'm a Full Stack Developer who likes turning messy, manual processes into clean, working software. Day to day, I build frontend interfaces, backend APIs, database-driven features, and the deployment workflows that keep them running.
 
-Currently, I'm working at **OneCapital Investment Private Limited**, contributing to a wealth management platform. My work spans dashboard development, API integration, financial data workflows, and application features used to support business operations.
+At **OneCapital Investment Private Limited**, I work on a wealth management platform. Much of my work there replaces spreadsheet-heavy workflows with proper dashboards, validated data pipelines, and APIs the business team can rely on.
 
-Alongside my professional work, I build independent projects and explore technologies that help me improve as an engineer.
+Outside work, I build my own projects and pick up new tools whenever a real problem calls for them.
 
 - 💻 Focused on frontend and full-stack web development.
 - ⚙️ Enjoy working with React, Next.js, TypeScript, and Node.js.
@@ -67,32 +66,30 @@ Git · GitHub · pnpm · Turborepo · Vercel · Cloudflare · Linux · Nginx
 
 **September 2025 – Present**
 
-Joined as a Full Stack Developer Intern and transitioned to a full-time Software Developer role in March 2026.
-
-- Contribute to the development and maintenance of a wealth management platform.
-- Build and improve dashboard interfaces for financial data, reporting, and business workflows.
-- Develop and integrate backend APIs using Node.js, Fastify, and TypeScript.
-- Work with PostgreSQL and Supabase for database-backed application features.
-- Contribute to data ingestion, validation, and reporting workflows involving Excel files.
-- Work within a TypeScript codebase using pnpm and Turborepo.
+- Build and maintain a wealth management platform used by the business team for daily financial operations.
+- Design dashboard interfaces for financial data, reporting, and business workflows, so teams can read the numbers without digging through spreadsheets.
+- Develop backend APIs with Node.js, Fastify, and TypeScript, and connect them cleanly to the frontend.
+- Work with PostgreSQL and Supabase to store, query, and secure application data.
+- Handle data ingestion, validation, and reporting for Excel-based inputs, catching bad data before it reaches the dashboards.
+- Work in a TypeScript monorepo managed with pnpm and Turborepo.
 
 ### Full Stack Developer · Freelance
 
 **August 2025 – Present**
 
-- Develop web applications and digital experiences for business requirements.
-- Work on frontend interfaces, backend functionality, API integrations, and database features.
-- Build e-commerce experiences, business websites, and application interfaces.
-- Handle development and deployment workflows across different projects.
+- Build web applications and business websites for clients, from first requirement to live deployment.
+- Work across frontend interfaces, backend logic, API integrations, and database features.
+- Deliver e-commerce experiences and application interfaces that fit each client's actual needs.
+- Handle deployment and hosting setup across different projects.
 
 ### Full Stack Developer Intern · Digi Mirai
 
 **February 2025 – June 2025**
 
-- Worked on full-stack application development using the MERN stack.
+- Built features for MERN stack applications, working on both the React frontend and the Node.js backend.
 - Developed and refined React components and application interfaces.
-- Integrated APIs and worked with database operations.
-- Gained practical experience with debugging and application development workflows.
+- Integrated APIs and handled database operations.
+- Learned practical debugging and team development workflows on live projects.
 
 ---
 
